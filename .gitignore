@@ -1,0 +1,13 @@
+# Go
+bin/
+*.exe
+*.test
+*.out
+coverage.*
+
+# DB
+*.db
+
+# IDE
+.vscode/
+.idea/
