@@ -11,3 +11,6 @@ coverage.*
 # IDE
 .vscode/
 .idea/
+.DS_Store
+web/.DS_Store
+pkg/.DS_Store
